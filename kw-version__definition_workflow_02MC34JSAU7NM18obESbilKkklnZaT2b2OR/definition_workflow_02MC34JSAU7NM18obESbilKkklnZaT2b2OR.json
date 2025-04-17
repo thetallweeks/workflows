@@ -11,7 +11,7 @@
         "is_atomic": false
       },
       "delete_workflow_instance": false,
-      "description": "a",
+      "description": "ab",
       "display_name": "KW Version test",
       "runtime_user": {
         "target_default": true
